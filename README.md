@@ -1,12 +1,102 @@
-# React + Vite
+Telepromptify Pro
+Telepromptify Pro is a dynamic teleprompter web application designed for presenters, educators, and content creators. This tool helps you read your scripts easily and smoothly, without interruptions.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Table of Contents
+Features
+Demo
+Installation
+Usage
+Project Structure
+Technologies Used
+Development Journey
+Contributing
+License
+Contact
+Features
+Customizable teleprompter speed and font size
+Pause/Resume functionality
+Full-screen mode
+Dark/Light theme support
+Script upload & edit
+Responsive UI (Mobile & Desktop support)
+Real-time preview
+Demo
+Live Demo Link
+You can add screenshots or GIFs here to showcase the application.
 
-Currently, two official plugins are available:
+Installation
+Clone the repository:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+bash
+git clone https://github.com/Shivam09xc/telepromptify-pro.git
+cd telepromptify-pro
+Install dependencies:
 
-## Expanding the ESLint configuration
+bash
+npm install
+Run the app:
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+bash
+npm start
+The app will open in your browser at: http://localhost:3000
+
+Usage
+Type or upload your script.
+Adjust teleprompter speed and font size as needed.
+Use the pause and resume buttons for control.
+Enable full-screen mode for a distraction-free experience.
+Switch between dark and light themes for comfort.
+Project Structure
+Code
+telepromptify-pro/
+├── public/
+│   └── index.html
+├── src/
+│   ├── components/
+│   ├── styles/
+│   ├── App.js
+│   └── index.js
+├── package.json
+└── README.md
+Technologies Used
+JavaScript (React.js, Vanilla JS)
+CSS (Styled Components, Custom CSS)
+HTML
+Development Journey
+Idea Phase:
+Identified the need for a teleprompter tool to make presentations and content creation easier.
+
+Tech Stack Selection:
+
+Chose React.js for the UI.
+Used CSS Flexbox/Grid and media queries for responsive design.
+Managed state with simple React hooks.
+Features Implementation:
+
+Script input & editing
+Dynamic scrolling based on user-defined speed
+Pause/Resume button logic
+Full-screen API integration
+Theme toggling using CSS variables
+Challenges Faced:
+
+Managing smooth scrolling without lag
+Addressing mobile compatibility issues
+Handling script formatting and edge cases
+Testing & Deployment:
+
+Performed manual testing across different devices
+Deployed with GitHub Pages/Netlify/Vercel
+Contributing
+Contributions are welcome!
+
+Fork the repository
+Add a new feature or fix a bug
+Submit a pull request
+License
+This project is MIT Licensed.
+
+Contact
+For questions or suggestions, feel free to reach out:
+GitHub: Shivam09xc
+Email: your-email@example.com
