@@ -33,7 +33,7 @@ Telepromptify Pro is a dynamic teleprompter web application designed for present
 
 ## Demo
 
-**Live Demo:** _[Add your live demo link here]_
+**Live Demo:** _[[Add your live demo link here](https://telepromptify-pro.vercel.app/)_
 
 You can add screenshots or GIFs here to showcase the application.
 
@@ -60,7 +60,7 @@ Run the app:
 npm start
 ```
 
-The app will open in your browser at: [http://localhost:3000](http://localhost:3000)
+The app will open in your browser at: [(https://telepromptify-pro.vercel.app/)]((https://telepromptify-pro.vercel.app/))
 
 ---
 
