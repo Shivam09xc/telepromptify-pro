@@ -33,7 +33,7 @@ Telepromptify Pro is a dynamic teleprompter web application designed for present
 
 ## Demo
 
-**Live Demo:** _[[Add your live demo link here](https://telepromptify-pro.vercel.app/)_
+**Live Demo:** _[[[](https://telepromptify-pro.vercel.app/)](https://telepromptify-pro.vercel.app/)_
 
 You can add screenshots or GIFs here to showcase the application.
 
