@@ -1,1 +1,0 @@
-# telepromptify-pro
